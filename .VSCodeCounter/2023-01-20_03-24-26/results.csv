@@ -1,0 +1,132 @@
+"filename", "language", "C++", "JSON", "HTML", "Dart", "Markdown", "YAML", "Swift", "XML", "Groovy", "Properties", "comment", "blank", "total"
+"e:\Technikorb\safe_meet_alert\README.md", "Markdown", 0, 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 7, 17
+"e:\Technikorb\safe_meet_alert\analysis_options.yaml", "YAML", 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 23, 4, 30
+"e:\Technikorb\safe_meet_alert\android\app\build.gradle", "Groovy", 0, 0, 0, 0, 0, 0, 0, 0, 54, 0, 5, 13, 72
+"e:\Technikorb\safe_meet_alert\android\app\src\debug\AndroidManifest.xml", "XML", 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 4, 1, 9
+"e:\Technikorb\safe_meet_alert\android\app\src\main\AndroidManifest.xml", "XML", 0, 0, 0, 0, 0, 0, 0, 28, 0, 0, 6, 1, 35
+"e:\Technikorb\safe_meet_alert\android\app\src\main\res\drawable-v21\launch_background.xml", "XML", 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 7, 2, 13
+"e:\Technikorb\safe_meet_alert\android\app\src\main\res\drawable\launch_background.xml", "XML", 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 7, 2, 13
+"e:\Technikorb\safe_meet_alert\android\app\src\main\res\values-night\styles.xml", "XML", 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 9, 1, 19
+"e:\Technikorb\safe_meet_alert\android\app\src\main\res\values\styles.xml", "XML", 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 9, 1, 19
+"e:\Technikorb\safe_meet_alert\android\app\src\profile\AndroidManifest.xml", "XML", 0, 0, 0, 0, 0, 0, 0, 4, 0, 0, 4, 1, 9
+"e:\Technikorb\safe_meet_alert\android\build.gradle", "Groovy", 0, 0, 0, 0, 0, 0, 0, 0, 27, 0, 0, 5, 32
+"e:\Technikorb\safe_meet_alert\android\gradle.properties", "Properties", 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 1, 4
+"e:\Technikorb\safe_meet_alert\android\gradle\wrapper\gradle-wrapper.properties", "Properties", 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 1, 6
+"e:\Technikorb\safe_meet_alert\android\settings.gradle", "Groovy", 0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 4, 12
+"e:\Technikorb\safe_meet_alert\common\utils\appcolors.dart", "Dart", 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"e:\Technikorb\safe_meet_alert\common\utils\apptheme.dart", "Dart", 0, 0, 0, 21, 0, 0, 0, 0, 0, 0, 1, 3, 25
+"e:\Technikorb\safe_meet_alert\common\utils\asset_names.dart", "Dart", 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"e:\Technikorb\safe_meet_alert\common\utils\dimension.dart", "Dart", 0, 0, 0, 70, 0, 0, 0, 0, 0, 0, 2, 3, 75
+"e:\Technikorb\safe_meet_alert\ios\Runner\AppDelegate.swift", "Swift", 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 2, 14
+"e:\Technikorb\safe_meet_alert\ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json", "JSON", 0, 122, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 123
+"e:\Technikorb\safe_meet_alert\ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json", "JSON", 0, 23, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 24
+"e:\Technikorb\safe_meet_alert\ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md", "Markdown", 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 2, 5
+"e:\Technikorb\safe_meet_alert\ios\Runner\Base.lproj\LaunchScreen.storyboard", "XML", 0, 0, 0, 0, 0, 0, 0, 36, 0, 0, 1, 1, 38
+"e:\Technikorb\safe_meet_alert\ios\Runner\Base.lproj\Main.storyboard", "XML", 0, 0, 0, 0, 0, 0, 0, 25, 0, 0, 1, 1, 27
+"e:\Technikorb\safe_meet_alert\ios\Runner\Runner-Bridging-Header.h", "C++", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"e:\Technikorb\safe_meet_alert\lib\BottomNavigationBar\bottom_navigation_bar.dart", "Dart", 0, 0, 0, 74, 0, 0, 0, 0, 0, 0, 2, 9, 85
+"e:\Technikorb\safe_meet_alert\lib\Emergency_contacts\boxes_emercon.dart", "Dart", 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 0, 4, 53
+"e:\Technikorb\safe_meet_alert\lib\Emergency_contacts\emergency_contacts.dart", "Dart", 0, 0, 0, 103, 0, 0, 0, 0, 0, 0, 0, 4, 107
+"e:\Technikorb\safe_meet_alert\lib\Subscrption\boxes_subs.dart", "Dart", 0, 0, 0, 57, 0, 0, 0, 0, 0, 0, 0, 4, 61
+"e:\Technikorb\safe_meet_alert\lib\Subscrption\subscription1.dart", "Dart", 0, 0, 0, 379, 0, 0, 0, 0, 0, 0, 18, 6, 403
+"e:\Technikorb\safe_meet_alert\lib\common\appbar.dart", "Dart", 0, 0, 0, 103, 0, 0, 0, 0, 0, 0, 2, 5, 110
+"e:\Technikorb\safe_meet_alert\lib\common\main button screens\main_button_screens.dart", "Dart", 0, 0, 0, 102, 0, 0, 0, 0, 0, 0, 30, 6, 138
+"e:\Technikorb\safe_meet_alert\lib\common\utils\appcolors.dart", "Dart", 0, 0, 0, 10, 0, 0, 0, 0, 0, 0, 0, 2, 12
+"e:\Technikorb\safe_meet_alert\lib\common\utils\apptheme.dart", "Dart", 0, 0, 0, 21, 0, 0, 0, 0, 0, 0, 1, 4, 26
+"e:\Technikorb\safe_meet_alert\lib\common\utils\asset_names.dart", "Dart", 0, 0, 0, 9, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"e:\Technikorb\safe_meet_alert\lib\common\utils\carousel.dart", "Dart", 0, 0, 0, 55, 0, 0, 0, 0, 0, 0, 8, 5, 68
+"e:\Technikorb\safe_meet_alert\lib\common\utils\dimension.dart", "Dart", 0, 0, 0, 70, 0, 0, 0, 0, 0, 0, 2, 3, 75
+"e:\Technikorb\safe_meet_alert\lib\common\widgets\app_bar2.dart", "Dart", 0, 0, 0, 73, 0, 0, 0, 0, 0, 0, 1, 4, 78
+"e:\Technikorb\safe_meet_alert\lib\common\widgets\appbar3.dart", "Dart", 0, 0, 0, 62, 0, 0, 0, 0, 0, 0, 1, 4, 67
+"e:\Technikorb\safe_meet_alert\lib\common\widgets\appbar4.dart", "Dart", 0, 0, 0, 55, 0, 0, 0, 0, 0, 0, 1, 4, 60
+"e:\Technikorb\safe_meet_alert\lib\common\widgets\appbar5.dart", "Dart", 0, 0, 0, 78, 0, 0, 0, 0, 0, 0, 1, 4, 83
+"e:\Technikorb\safe_meet_alert\lib\common\widgets\appbar6.dart", "Dart", 0, 0, 0, 45, 0, 0, 0, 0, 0, 0, 12, 3, 60
+"e:\Technikorb\safe_meet_alert\lib\common\widgets\custom_button.dart", "Dart", 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 3, 31
+"e:\Technikorb\safe_meet_alert\lib\common\widgets\text_field.dart", "Dart", 0, 0, 0, 61, 0, 0, 0, 0, 0, 0, 2, 6, 69
+"e:\Technikorb\safe_meet_alert\lib\dummy.dart", "Dart", 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 0, 4, 18
+"e:\Technikorb\safe_meet_alert\lib\main.dart", "Dart", 0, 0, 0, 40, 0, 0, 0, 0, 0, 0, 0, 5, 45
+"e:\Technikorb\safe_meet_alert\lib\src\auth\forgetpassword\forgetpassword_view.dart", "Dart", 0, 0, 0, 118, 0, 0, 0, 0, 0, 0, 3, 6, 127
+"e:\Technikorb\safe_meet_alert\lib\src\auth\login\login_view.dart", "Dart", 0, 0, 0, 161, 0, 0, 0, 0, 0, 0, 3, 6, 170
+"e:\Technikorb\safe_meet_alert\lib\src\auth\register screen\register.dart", "Dart", 0, 0, 0, 138, 0, 0, 0, 0, 0, 0, 3, 6, 147
+"e:\Technikorb\safe_meet_alert\lib\src\auth\resetpassword\resetpassword_view.dart", "Dart", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 110, 5, 115
+"e:\Technikorb\safe_meet_alert\lib\src\auth\security pin setup\security_pin_setup.dart", "Dart", 0, 0, 0, 123, 0, 0, 0, 0, 0, 0, 20, 7, 150
+"e:\Technikorb\safe_meet_alert\lib\src\auth\signup\signup_view.dart", "Dart", 0, 0, 0, 139, 0, 0, 0, 0, 0, 0, 3, 6, 148
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\Hosted_and_Shared\bottom_sheet.dart", "Dart", 0, 0, 0, 276, 0, 0, 0, 0, 0, 0, 27, 7, 310
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\Hosted_and_Shared\hosted_and_shared.dart", "Dart", 0, 0, 0, 108, 0, 0, 0, 0, 0, 0, 0, 7, 115
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\Hosted_and_Shared\hosted_meetings\all.dart", "Dart", 0, 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 5, 36
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\Hosted_and_Shared\hosted_meetings\completed.dart", "Dart", 0, 0, 0, 29, 0, 0, 0, 0, 0, 0, 0, 6, 35
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\Hosted_and_Shared\hosted_meetings\compromised.dart", "Dart", 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 5, 33
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\Hosted_and_Shared\hosted_meetings\hosted_meetings.dart", "Dart", 0, 0, 0, 62, 0, 0, 0, 0, 0, 0, 1, 5, 68
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\Hosted_and_Shared\hosted_meetings\in_progress.dart", "Dart", 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 5, 31
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\Hosted_and_Shared\meeting_container.dart", "Dart", 0, 0, 0, 99, 0, 0, 0, 0, 0, 0, 5, 4, 108
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\Hosted_and_Shared\shared meetings\add_meeting_container.dart", "Dart", 0, 0, 0, 149, 0, 0, 0, 0, 0, 0, 1, 4, 154
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\Hosted_and_Shared\shared meetings\shared_meeting_container.dart", "Dart", 0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 5, 6, 93
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\Hosted_and_Shared\shared meetings\shared_meetings.dart", "Dart", 0, 0, 0, 28, 0, 0, 0, 0, 0, 0, 0, 5, 33
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\audio_recordings\audio_recordings.dart", "Dart", 0, 0, 0, 49, 0, 0, 0, 0, 0, 0, 1, 6, 56
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\audio_recordings\audion_recording_container.dart", "Dart", 0, 0, 0, 137, 0, 0, 0, 0, 0, 0, 6, 4, 147
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\contact_and_overview\contact_and_overview1.dart", "Dart", 0, 0, 0, 260, 0, 0, 0, 0, 0, 0, 2, 5, 267
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\data\authentication_api\authentication_api.dart", "Dart", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\emergency\emergency.dart", "Dart", 0, 0, 0, 363, 0, 0, 0, 0, 0, 0, 13, 5, 381
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\help\help.dart", "Dart", 0, 0, 0, 86, 0, 0, 0, 0, 0, 0, 0, 5, 91
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\home2\home2.dart", "Dart", 0, 0, 0, 147, 0, 0, 0, 0, 0, 0, 15, 6, 168
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\home2\home2_image_detail_container.dart", "Dart", 0, 0, 0, 110, 0, 0, 0, 0, 0, 0, 21, 5, 136
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\home2\statistics_row.dart", "Dart", 0, 0, 0, 41, 0, 0, 0, 0, 0, 0, 0, 4, 45
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\home\alert_history_container.dart", "Dart", 0, 0, 0, 82, 0, 0, 0, 0, 0, 0, 4, 5, 91
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\home\background_image.dart", "Dart", 0, 0, 0, 19, 0, 0, 0, 0, 0, 0, 0, 4, 23
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\home\home_page.dart", "Dart", 0, 0, 0, 131, 0, 0, 0, 0, 0, 0, 14, 4, 149
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\home\image_container.dart", "Dart", 0, 0, 0, 25, 0, 0, 0, 0, 0, 0, 1, 4, 30
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\home\image_detail_container.dart", "Dart", 0, 0, 0, 117, 0, 0, 0, 0, 0, 0, 5, 6, 128
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\home\statistics_container.dart", "Dart", 0, 0, 0, 71, 0, 0, 0, 0, 0, 0, 2, 5, 78
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\hosted meetings\hosted_and_shared.dart", "Dart", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 101, 6, 107
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\hosted meetings\hosted_meetings.dart", "Dart", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 56, 6, 62
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\hosted meetings\shared_meetings.dart", "Dart", 0, 0, 0, 26, 0, 0, 0, 0, 0, 0, 0, 7, 33
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\legal\legal.dart", "Dart", 0, 0, 0, 205, 0, 0, 0, 0, 0, 0, 8, 6, 219
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\meetinglocation\meeting_location.dart", "Dart", 0, 0, 0, 121, 0, 0, 0, 0, 0, 0, 3, 7, 131
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\meetings\meetings1.dart", "Dart", 0, 0, 0, 286, 0, 0, 0, 0, 0, 0, 9, 5, 300
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\notification\contacts_notification.dart", "Dart", 0, 0, 0, 76, 0, 0, 0, 0, 0, 0, 2, 4, 82
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\notification\notification.dart", "Dart", 0, 0, 0, 142, 0, 0, 0, 0, 0, 0, 30, 8, 180
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\permissions\chip_widget.dart", "Dart", 0, 0, 0, 92, 0, 0, 0, 0, 0, 0, 0, 6, 98
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\permissions\permission.dart", "Dart", 0, 0, 0, 73, 0, 0, 0, 0, 0, 0, 0, 5, 78
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\personal_details\personal_detail.dart", "Dart", 0, 0, 0, 148, 0, 0, 0, 0, 0, 0, 0, 7, 155
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\profile\personal_details.dart", "Dart", 0, 0, 0, 52, 0, 0, 0, 0, 0, 0, 0, 4, 56
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\profile\profile.dart", "Dart", 0, 0, 0, 198, 0, 0, 0, 0, 0, 0, 7, 8, 213
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\shared_messages\shared_messages.dart", "Dart", 0, 0, 0, 122, 0, 0, 0, 0, 0, 0, 0, 8, 130
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\subscription_plan\subscription_plan.dart", "Dart", 0, 0, 0, 616, 0, 0, 0, 0, 0, 0, 317, 17, 950
+"e:\Technikorb\safe_meet_alert\lib\src\main user as contact\subscription_plan\subscriptionplan_row.dart", "Dart", 0, 0, 0, 40, 0, 0, 0, 0, 0, 0, 1, 4, 45
+"e:\Technikorb\safe_meet_alert\lib\src\main user\appbar\main_user_appbar.dart", "Dart", 0, 0, 0, 577, 0, 0, 0, 0, 0, 0, 55, 15, 647
+"e:\Technikorb\safe_meet_alert\lib\src\main user\compromised_meetings.dart", "Dart", 0, 0, 0, 369, 0, 0, 0, 0, 0, 0, 14, 5, 388
+"e:\Technikorb\safe_meet_alert\lib\src\main user\emergency contacts\emergency_contact_widgets.dart", "Dart", 0, 0, 0, 120, 0, 0, 0, 0, 0, 0, 0, 8, 128
+"e:\Technikorb\safe_meet_alert\lib\src\main user\emergency contacts\emergency_contects.dart", "Dart", 0, 0, 0, 179, 0, 0, 0, 0, 0, 0, 0, 6, 185
+"e:\Technikorb\safe_meet_alert\lib\src\main user\emergency contacts\search_bar.dart", "Dart", 0, 0, 0, 67, 0, 0, 0, 0, 0, 0, 2, 5, 74
+"e:\Technikorb\safe_meet_alert\lib\src\main user\meeting code\meeting_code.dart", "Dart", 0, 0, 0, 143, 0, 0, 0, 0, 0, 0, 0, 6, 149
+"e:\Technikorb\safe_meet_alert\lib\src\main user\meeting code\number.dart", "Dart", 0, 0, 0, 29, 0, 0, 0, 0, 0, 0, 0, 4, 33
+"e:\Technikorb\safe_meet_alert\lib\src\main user\meeting code\pin_code_bar.dart", "Dart", 0, 0, 0, 167, 0, 0, 0, 0, 0, 0, 30, 10, 207
+"e:\Technikorb\safe_meet_alert\lib\src\onboarding\onboarding_view.dart", "Dart", 0, 0, 0, 376, 0, 0, 0, 0, 0, 0, 239, 14, 629
+"e:\Technikorb\safe_meet_alert\lib\src\profile\profilesetup_view.dart", "Dart", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 186, 6, 192
+"e:\Technikorb\safe_meet_alert\lib\src\splash\splash_view.dart", "Dart", 0, 0, 0, 92, 0, 0, 0, 0, 0, 0, 15, 12, 119
+"e:\Technikorb\safe_meet_alert\lib\src\utils_screens\congrats_view.dart", "Dart", 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 61, 5, 66
+"e:\Technikorb\safe_meet_alert\linux\flutter\generated_plugin_registrant.cc", "C++", 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 12
+"e:\Technikorb\safe_meet_alert\linux\flutter\generated_plugin_registrant.h", "C++", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 16
+"e:\Technikorb\safe_meet_alert\linux\main.cc", "C++", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 7
+"e:\Technikorb\safe_meet_alert\linux\my_application.cc", "C++", 74, 0, 0, 0, 0, 0, 0, 0, 0, 0, 11, 20, 105
+"e:\Technikorb\safe_meet_alert\linux\my_application.h", "C++", 7, 0, 0, 0, 0, 0, 0, 0, 0, 0, 7, 5, 19
+"e:\Technikorb\safe_meet_alert\macos\Flutter\GeneratedPluginRegistrant.swift", "Swift", 0, 0, 0, 0, 0, 0, 4, 0, 0, 0, 3, 4, 11
+"e:\Technikorb\safe_meet_alert\macos\Runner\AppDelegate.swift", "Swift", 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 2, 10
+"e:\Technikorb\safe_meet_alert\macos\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json", "JSON", 0, 68, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 69
+"e:\Technikorb\safe_meet_alert\macos\Runner\Base.lproj\MainMenu.xib", "XML", 0, 0, 0, 0, 0, 0, 0, 343, 0, 0, 0, 1, 344
+"e:\Technikorb\safe_meet_alert\macos\Runner\MainFlutterWindow.swift", "Swift", 0, 0, 0, 0, 0, 0, 12, 0, 0, 0, 0, 4, 16
+"e:\Technikorb\safe_meet_alert\pubspec.yaml", "YAML", 0, 0, 0, 0, 0, 22, 0, 0, 0, 0, 57, 16, 95
+"e:\Technikorb\safe_meet_alert\test\widget_test.dart", "Dart", 0, 0, 0, 14, 0, 0, 0, 0, 0, 0, 10, 7, 31
+"e:\Technikorb\safe_meet_alert\web\index.html", "HTML", 0, 0, 37, 0, 0, 0, 0, 0, 0, 0, 16, 6, 59
+"e:\Technikorb\safe_meet_alert\web\manifest.json", "JSON", 0, 35, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 36
+"e:\Technikorb\safe_meet_alert\windows\flutter\generated_plugin_registrant.cc", "C++", 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 5, 12
+"e:\Technikorb\safe_meet_alert\windows\flutter\generated_plugin_registrant.h", "C++", 5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 6, 16
+"e:\Technikorb\safe_meet_alert\windows\runner\flutter_window.cpp", "C++", 45, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 13, 62
+"e:\Technikorb\safe_meet_alert\windows\runner\flutter_window.h", "C++", 20, 0, 0, 0, 0, 0, 0, 0, 0, 0, 5, 9, 34
+"e:\Technikorb\safe_meet_alert\windows\runner\main.cpp", "C++", 30, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4, 10, 44
+"e:\Technikorb\safe_meet_alert\windows\runner\resource.h", "C++", 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 2, 17
+"e:\Technikorb\safe_meet_alert\windows\runner\utils.cpp", "C++", 53, 0, 0, 0, 0, 0, 0, 0, 0, 0, 2, 10, 65
+"e:\Technikorb\safe_meet_alert\windows\runner\utils.h", "C++", 8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6, 6, 20
+"e:\Technikorb\safe_meet_alert\windows\runner\win32_window.cpp", "C++", 183, 0, 0, 0, 0, 0, 0, 0, 0, 0, 15, 48, 246
+"e:\Technikorb\safe_meet_alert\windows\runner\win32_window.h", "C++", 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 29, 22, 99
+"Total", "-", 499, 248, 37, 9162, 13, 25, 36, 466, 89, 8, 1754, 730, 13067
